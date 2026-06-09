@@ -4,7 +4,7 @@ An interactive web application to analyze **120 years of Olympic Games history (
 
 ## 🔴 Live Demo
 
-👉 [Click Here to View Live App](YOUR-STREAMLIT-LINK-HERE)
+👉 [Click Here to View Live App](https://olympics-data-analysis-shrawan15.streamlit.app)
 
 ---
 
@@ -205,13 +205,6 @@ scipy
 ## 🚀 Deployment
 
 This application is deployed on **Streamlit Cloud** which provides free hosting for Streamlit applications.
-
----
-
-## 🙏 Acknowledgements
-
-- **Dataset:** [Kaggle - 120 years of Olympic history](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-- **Deployment:** [Streamlit Cloud](https://streamlit.io/cloud)
 
 ---
 
